@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">U1T3_TrabajoEncargado1</string>
+    <string name="app_name">Nav</string>
+    <string name="title_shop">Listas</string>
+    <string name="title_gifts">Grillas</string>
+    <string name="title_cart">Login</string>
+    <string name="title_profile">TITULO</string>
+
+
+    <string-array name="tipo">
+        <item>Lista</item>
+        <item>Grilla</item>
+    </string-array>
+
+    <string-array name="milista">
+        <item>Peru</item>
+        <item>Bolivia</item>
+        <item>Argentina</item>
+        <item>Ecuador</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
