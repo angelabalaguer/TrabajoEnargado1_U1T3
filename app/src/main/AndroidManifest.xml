@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.u1t3_trabajoencargado1">
+    package="com.example.u1tema3bottonnavigation">
 
     <application
         android:allowBackup="true"
@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".FragmentList"></activity>
-        <activity android:name=".FragmentLogin" />
+        <activity android:name=".RegistroFragmento"></activity>
+        <activity android:name=".LoginFragmento" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
